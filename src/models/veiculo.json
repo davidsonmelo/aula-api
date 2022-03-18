@@ -1,0 +1,83 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "marca": "fiat",
+            "modelo": "palio",
+            "ano": "2008",
+            "cor": "azul",
+            "valor": "18.000"
+        },
+        {
+            "id": 2,
+            "marca": "gm",
+            "modelo": "onix",
+            "ano": "2017",
+            "cor": "branco",
+            "valor": "55.000"
+        },
+        {
+            "id": 3,
+            "marca": "gm",
+            "modelo": "s10",
+            "ano": "2013",
+            "cor": "preta",
+            "valor": "105.000"
+        },
+        {
+            "id": 4,
+            "marca": "honda",
+            "modelo": "civic",
+            "ano": "2008",
+            "cor": "prata",
+            "valor": "28.000"
+        },
+        {
+            "id": 5,
+            "marca": "vw",
+            "modelo": "golf",
+            "ano": "2013",
+            "cor": "prata",
+            "valor": "39.500"
+        },
+        {
+            "id": 6,
+            "marca": "fiat",
+            "modelo": "uno",
+            "ano": "2002",
+            "cor": "vermelho",
+            "valor": "15.700"
+        },
+        {
+            "id": 7,
+            "marca": "vw",
+            "modelo": "gol",
+            "ano": "2008",
+            "cor": "preto",
+            "valor": "20.300"
+        },
+        {
+            "id": 8,
+            "marca": "ford",
+            "modelo": "ranger",
+            "ano": "2019",
+            "cor": "branca",
+            "valor": "159.200"
+        },
+        {
+            "id": 9,
+            "marca": "ford",
+            "modelo": "fiesta",
+            "ano": "2011",
+            "cor": "preto",
+            "valor": "18.200"
+        },
+        {
+            "id": 10,
+            "marca": "hyundai",
+            "modelo": "veloster",
+            "cor": "branco",
+            "valor": "49.800"
+        }
+    ]
+}
